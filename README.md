@@ -22,3 +22,8 @@ https://blog.csdn.net/weixin_44936889/article/details/104390227
 '''
 python demo.py
 '''
+
+将视频路径改为自己的路径，然后运行：
+'''
+python demo_video.py
+'''
